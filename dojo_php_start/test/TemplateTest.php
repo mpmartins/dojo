@@ -1,6 +1,6 @@
 <?php
 require_once 'PHPUnit/Autoload.php';
-require_once '../src/Template.php';
+require_once 'src/Template.php';
 
 /**
  * TemplateTest will run assertions on Template class.
